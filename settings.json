@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dragonveilmcsmp.aternos.me:39010",
+    "ip": "dragonveilmcsmp.aternos.me",
     "port": 39010,
     "version": "",
     "try-creative": false
